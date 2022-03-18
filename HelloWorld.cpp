@@ -1,10 +1,9 @@
 #include <iostream> 
-using namespace std;
 int main(){
 std::string user;
-cin >> user;
-cout << "Hello World! from@" << user <<  endl;
+std::cin >> user;
+std::cout << "Hello World! from@" << user <<  std::endl;
 return 0;
 }
-
+//Alll))))
 
