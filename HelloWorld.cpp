@@ -5,5 +5,5 @@ std::cin >> user;
 std::cout << "Hello World! from@" << user <<  std::endl;
 return 0;
 }
-
+//Alll))))
 
